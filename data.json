@@ -1,0 +1,26 @@
+[
+    {
+      "USERID": 58,
+      "CardNo": "954915450",
+      "name": "JAMILET",
+      "lastname": "CHICHANDE",
+      "BIRTHDAY": "1999-01-28T00:00:00",
+      "HIREDDAY": "2024-11-25T00:00:00",
+      "street": "",
+      "email": "jamiletchichande@gmail.com",
+      "acc_startdate": "2024-11-25T00:00:00",
+      "acc_enddate": "2024-12-25T00:00:00"
+    },
+    {
+      "USERID": 59,
+      "CardNo": "954915451",
+      "name": "PEDRO",
+      "lastname": "PEREZ",
+      "BIRTHDAY": "1999-01-28T00:00:00",
+      "HIREDDAY": "2024-11-25T00:00:00",
+      "street": "",
+      "email": "pedroperez@gmail.com",
+      "acc_startdate": "2024-11-25T00:00:00",
+      "acc_enddate": "2024-12-25T00:00:00"
+    }
+  ]
