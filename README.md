@@ -3,9 +3,8 @@ File monitoring and execution based on .txt input / Monitoreo y ejecución segú
 
 ---
 
-### 📁 Automatizador de tareas con archivos
+### 🤖  Automatizador de tareas con archivos
 
-**README.md**
 
 # Automatizador de Tareas con Archivos 📂🔁
 
