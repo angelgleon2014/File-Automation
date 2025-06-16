@@ -3,7 +3,7 @@ File monitoring and execution based on .txt input / Monitoreo y ejecución segú
 
 ---
 
-### 📁 3. Automatizador de tareas con archivos
+### 📁 Automatizador de tareas con archivos
 
 **README.md**
 
@@ -22,5 +22,3 @@ Script que monitorea una carpeta específica para detectar archivos nuevos, proc
 - Watchdog
 - OS / Pathlib
 - Logging
-
-## 📂 Estructura
